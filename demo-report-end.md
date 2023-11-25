@@ -34,10 +34,19 @@
 <div id="refs" class="references" custom-style="ReferenceItem">
 </div> -->
 
-<!-- # [ПРИЛОЖЕНИЕ\ А<br>**Диаграмма прецедентов высокого уровня детализации**]{custom-style="AppendixHeadingOne"} {#sec:app-a label="A"}
+# [ПРИЛОЖЕНИЕ\ А<br>**Диаграмма прецедентов, описывающая взаимодействие с системой клиентом коммерческого проекта**]{custom-style="AppendixHeadingOne"} {#sec:app-a label="A"}
 
-![](ЛР1.png){#fig:lr1 height=23cm}
- -->
+![Диаграмма прецедентов, описывающая взаимодействие с системой клиентом коммерческого проекта](Get a blanket IT-Use case для клиентов.png){#fig:umlUseCaseClients height=24.5cm}
+
+# [ПРИЛОЖЕНИЕ\ Б<br>**Диаграмма прецедентов, описывающая взаимодействие с системой специалистом технического обслуживания**]{custom-style="AppendixHeadingOne"} {#sec:app-b label="Б"}
+
+![Диаграмма прецедентов, описывающая взаимодействие с системой специалистом технического обслуживания](Get a blanket IT-Use case для тех. обслуживания.png){#fig:umlUseCaseTechnical height=24.5cm}
+
+# [ПРИЛОЖЕНИЕ\ В<br>**Диаграмма прецедентов, описывающая взаимодействие с системой аналитиком и системным администратором**]{custom-style="AppendixHeadingOne"} {#sec:app-c label="В"}
+
+![Диаграмма прецедентов, описывающая взаимодействие с системой аналитиком и системным администратором](Get a blanket IT-Use case для аналитиков.png){#fig:umlUseCaseAnalytics height=8cm}
+
+
 <!-- # [ПРИЛОЖЕНИЕ\ А<br>**Заголовок приложения А**]{custom-style="AppendixHeadingOne"} {#sec:app-a label="A"}
 
 Это текст Приложения А. В приложениях тоже можно создавать подразделы,
